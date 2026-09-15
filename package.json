@@ -1,0 +1,11 @@
+{
+  "name": "npm-stats-helper",
+  "version": "1.0.0",
+  "description": "Helper package for npm statistics",
+  "main": "lib/stats.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "keywords": ["npm", "stats", "helper"],
+  "license": "MIT"
+}
